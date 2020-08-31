@@ -3,6 +3,8 @@ Optimize linear regression parameters with gradient descent
 
 - ex1.mlx - MATLAB Live Script that steps you through the exercise
 
+- ex1.pdf - Information of this exercise
+
 - ex1data1.txt - Dataset for linear regression with one variable
 
 - ex1data2.txt - Dataset for linear regression with multiple variables
